@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ngocdev01
-- 👀 I’m interested in Game, Anime :))
-- 🌱 I’m currently learning Game Development with Unity
-- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me : ngocdev01@gmail.com
 
 <!---
